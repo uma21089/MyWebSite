@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 123This is first file
+=======
+This is first file
+sec
+>>>>>>> f1
